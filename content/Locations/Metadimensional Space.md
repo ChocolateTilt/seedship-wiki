@@ -1,5 +1,6 @@
 # General Information
 **Population:** Unknown
+
 **Other Names:** Oversea (Ye-Tai), The Sticks (Martians)
 
 ---
@@ -28,6 +29,6 @@ Ye-Tai appear to be unaffected by travel through MDS. Their Motherships are able
 [[Cogitatio vermis]] likely originated somewhere within MDS, its exact home-world coordinates are unknown.
 
 # Metadimensional Energy
-Discovered by [[Hippocrates Reardon (Devin)|Dr. Reardon]], **Metadimensional Energy** (MDE) is a radiation or wave phenomenon that appears to be sourced from MDS. This energy can be harnessed and used to communicate over vast distances and utilize psychic abilities. MDE can also manifest in music or ritualistic prayer according to [[Sandile Vincent|Dr. Vincent]]
+Discovered by [[quartz/content/People/Hippocrates Reardon|Hippocrates Reardon]], **Metadimensional Energy** (MDE) is a radiation or wave phenomenon that appears to be sourced from MDS. This energy can be harnessed and used to communicate over vast distances and utilize psychic abilities. MDE can also manifest in music or ritualistic prayer according to [[Sandile Vincent|Dr. Vincent]]
 
 Dr. Reardon was able to discover a way to shield against background and slightly elevated forms of MDE however current technology appears to be ineffective against the presence of more powerful wielders.

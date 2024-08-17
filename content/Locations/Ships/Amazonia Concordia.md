@@ -1,4 +1,3 @@
-
 The Amazonia Concordia, constructed in 2243 by the C.V. Krup Capital Group of [[Venus]], was the first and largest attempt at an interstellar-class human-occupied vessel by major inner system interests. Previous ventures, including the asteroid-ark Jerusalem, were projects of small religious sects, political breakaway groups, and many outer-system fringe polities. Amazonia Concordia would be the first time a major inner system shipyard would take on such a project. 
 
 C.V. Krup Capital Group was a kind of corporate coalition; made of multiple corporations all sharing common goals and with mutually profitable industries. It was formed explicitly for the creation of Amazonia Concordia, allowing each corporation to dilute their fiscal risk in pursuit of a project that would cost 3 trillion Venusian kir and could fail before even truly leaving the system.

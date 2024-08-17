@@ -1,7 +1,7 @@
 The Sparrow Boarding 001 was a coordinated assault lead by [[Ephraim]] with the goal of forcing the [[Sparrow]] to turn back to Sol or destroy it.
 
 # Timeframe
-Boarding 001 occurred in January 2729 ([[Session 16]] - [[Session 17]]) over the course of a single day.
+Boarding 001 occurred in January 2729 (Sessions 16 and 17) over the course of a single day.
 
 # Background
 In mid to late January, the Sparrow picked up on a signal matching the signature of a wormhole three million kilometers off our stern. Through it, a [[Cogitatio vermis|Thoughtworm]] infector ship appeared. Over a few days, it evaded multiple long range attacks and traps from the Sparrow. 
