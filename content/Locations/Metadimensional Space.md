@@ -1,7 +1,7 @@
 # General Information
 **Population:** Unknown
 
-**Other Names:** Oversea (Ye-Tai), The Sticks (Martians)
+**Other Names:** Oversea ([[Ye-Tai]]), The Sticks (Martians)
 
 ---
 **Metadimensional Space** (MDS) is a dimensional layer of current known space. 
@@ -19,7 +19,7 @@ Humans who physically travel through MDS experience psychosis and are corrupted,
 
 Humans who travel to MDS via dreams do not appear to be directly corrupted.
 
-### [[Ye-Tai]]
+### Ye-Tai
 Ye-Tai appear to be unaffected by travel through MDS. Their Motherships are able to send forces through via unknown technology for incredibly quick travel.
 
 # Points of Interest
