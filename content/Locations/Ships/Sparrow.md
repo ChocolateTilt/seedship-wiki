@@ -3,11 +3,11 @@ tags:
   - seedship
 ---
 # Key Crew
-**Commander:** [[Benjamin Elias (Adam)]]
+**Commander:** [[quartz/content/People/Benjamin Elias|Benjamin Elias]]
 
-**Head of Medical:** [[Dr. D (Losy)]]
+**Head of Medical:** [[quartz/content/People/Dr. D|Dr. D]]
 
-**Head of Communications:** [[Hippocrates Reardon (Devin)]]
+**Head of Communications:** [[quartz/content/People/Hippocrates Reardon|Hippocrates Reardon]]
 
 **Head of Security:** [[Jamie Platt]]
 
