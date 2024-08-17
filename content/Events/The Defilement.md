@@ -7,7 +7,7 @@ The Defilement was a period of horrific loss as [[Cogitatio vermis]] ripped thro
 The Defilement started in the year 2563 and continued for years.
 
 # Background
-On the anniversary of the end of the Venusian/Alliance war the [[Bah-Jurang Listening Post]] went dark. Six week later, an infected E.P.U Fast Scout traveled from the listening post to Earth kicking off the final days of life on Earth.
+On the anniversary of the end of the Venusian/Alliance war the [[content/Locations/Bah-Jurang Listening Post]] went dark. Six week later, an infected E.P.U Fast Scout traveled from the listening post to Earth kicking off the final days of life on Earth.
 
 # Aftermath
 Planets became extremely insular, quarantining their populations in order to protect them from both death and the truth. [[Locations/Mars|Mars]] began executing plans of mass migrations out of Sol by creating three Seedships: [[Sparrow]], [[Dvinalya]], and [[Petierre]].
