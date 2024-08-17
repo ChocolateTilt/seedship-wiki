@@ -1,4 +1,5 @@
-The Amazonia Concordia, constructed in 2243 by the C.V. Krup Capital Group of Venus, was the first and largest attempt at an interstellar-class human-occupied vessel by major inner system interests. Previous ventures, including the asteroid-ark Jerusalem, were projects of small religious sects, political breakaway groups, and many outer-system fringe polities. Amazonia Concordia would be the first time a major inner system shipyard would take on such a project. 
+
+The Amazonia Concordia, constructed in 2243 by the C.V. Krup Capital Group of [[Venus]], was the first and largest attempt at an interstellar-class human-occupied vessel by major inner system interests. Previous ventures, including the asteroid-ark Jerusalem, were projects of small religious sects, political breakaway groups, and many outer-system fringe polities. Amazonia Concordia would be the first time a major inner system shipyard would take on such a project. 
 
 C.V. Krup Capital Group was a kind of corporate coalition; made of multiple corporations all sharing common goals and with mutually profitable industries. It was formed explicitly for the creation of Amazonia Concordia, allowing each corporation to dilute their fiscal risk in pursuit of a project that would cost 3 trillion Venusian kir and could fail before even truly leaving the system.
 
@@ -28,6 +29,7 @@ The corporates chose the Epsilon systems as their target, with an ambitious plan
 
 # Relevant Information on Corporate Backers, Known Executives Onboard, and More
 **CORPORATE BACKERS AND CEOS**
+
 A number of corporate interests, large and small, hitched a ride on Amazonia Concordia in hopes of a more profitable future. This list contains the eight primary corporate backers who provided most of the funding and support.
 
 1. Azam Microtech
@@ -59,6 +61,7 @@ A number of corporate interests, large and small, hitched a ride on Amazonia Con
 	- CEO: Unknown
 
 **OBJECTS AND THINGS OF INTEREST**
+
 The vessel holds many quality scientific survey systems, terraforming equipment, supples, and more. This list is of only a few items of relevance; conceivably there may be more onboard. 
 
 - Agricultural supplies (soil, nutrients, bacterial cultures, fungal cultures and spores, seeds, etc)    
