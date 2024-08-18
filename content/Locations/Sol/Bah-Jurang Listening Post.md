@@ -7,6 +7,7 @@ Ground zero of the alien threat, [[Cogitatio vermis]]
 | [[Ephraim]] | Director | Initial infector                          |
 | Silvanus    |          | Was turned into a glowing, floating being |
 | Zhuang      |          | Left with Ephraim                         |
+
 # Intelligence
 ## Recording dated Sept 30, 2564
 DIRECTOR EPHRAIM: **incoherent** “no way of knowing its origin off visual alone. Do a full spectrum scan, but keep us quiet.”
