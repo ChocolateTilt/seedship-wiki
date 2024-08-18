@@ -19,5 +19,7 @@ The Sparrow suffered damage to multiple locations including:
 250 crewmembers were killed. 150 were key crew and 100 were auxiliary Marines
 
 **Remaining key crew:** 750
+
 **Remaining auxiliary contingents:** 1,900
+
 **Remaining bulk cargo:** 30,000 (no loss)

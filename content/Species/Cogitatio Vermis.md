@@ -1,3 +1,9 @@
+---
+aliases:
+  - Thoughtworm
+  - Thoughtworms
+  - C. vermis
+---
 *Cogitatio vermis (C. vermis)* is a genocidal alien threat of unknown origins that appear to be able to manipulate the minds of creatures through the use of Metadimensional Energy.
 
 **Other names:** The Enemy ([[Ye-Tai]]), Thoughtworms ([[Humans]])

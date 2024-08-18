@@ -3,11 +3,11 @@ tags:
   - seedship
 ---
 # Key Crew
-**Commander:** [[quartz/content/People/Benjamin Elias|Benjamin Elias]]
+**Commander:**  [[Benjamin Elias]]
 
-**Head of Medical:** [[quartz/content/People/Dr. D|Dr. D]]
+**Head of Medical:** [[Dr. D]]
 
-**Head of Communications:** [[quartz/content/People/Hippocrates Reardon|Hippocrates Reardon]]
+**Head of Communications:** [[Hippocrates Reardon]]
 
 **Head of Security:** [[Jamie Platt]]
 
@@ -15,4 +15,3 @@ tags:
 
 # Human Cargo of Note
 [[Sandile Vincent]]
-

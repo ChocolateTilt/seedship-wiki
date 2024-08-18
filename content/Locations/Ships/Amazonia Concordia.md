@@ -43,7 +43,7 @@ A number of corporate interests, large and small, hitched a ride on Amazonia Con
     - CEO: Vasily Peshkov
 4. INFERON Agri-Aqua-Culture 
 	- Massive-scale agriculture and aquaculture firm. Pioneered the “Sanlis Loop”, a type of orbital megastructure employed in growing food in the vacuum of space. 
-	- CEO: [Ryoichi](https://www.behindthename.com/name/ryoichi) [Hamaguchi](https://surnames.behindthename.com/name/hamaguchi)
+	- CEO: Ryoichi Hamaguchi
 5. Venus Solar Power Company 
 	- Energy provider with a focus on the construction and operation of solar collector stations. 
 	- CEO: Huy Phạm

@@ -1,4 +1,4 @@
-A meeting between the [[quartz/content/Locations/Ships/Sparrow|Sparrow]] and the [[quartz/content/Locations/Ships/Amazonia Concordia|Amazonia Concordia]] after a message was sent by "[[Charis Kobayashi]]".
+A meeting between the [[Sparrow]] and the [[Amazonia Concordia]] after a message was sent by "[[Charis Kobayashi]]".
 
 # Background
 ## Message
