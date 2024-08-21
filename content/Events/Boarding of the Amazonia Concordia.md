@@ -1,7 +1,7 @@
-A meeting between the [[Sparrow]] and the [[Amazonia Concordia]] after a message was sent by "[[Charis Kobayashi]]".
+A meeting turned coup between the [[Sparrow]] and the [[Amazonia Concordia]]. Command staff of the Sparrow met with the team of CEOs leading the Amazonia - [[Charis Kobayashi]], [[Vasily Peshkov]], and [[Chiwetei Babangida]]. 
 
 # Background
-## Message
+**Message from the Amazonia to the Sparrow**
 *Hello, my name is Charis Kobayashi. I am one of three remaining Executives aboard Amazonia Concordia.* 
 
 *We understand you intend to rendezvous with our vessel, under the belief that its human crew are dead. We are happy to inform you we are not dead, in fact, we are doing quite well. Amazonia Concordia has suffered no major mechanical issues, and we remain hopeful for our arrival in Epsilon Eridani in 1400 years.* 
