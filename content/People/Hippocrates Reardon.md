@@ -4,6 +4,8 @@ aliases:
   - Hippocrates
 tags:
   - player
+  - sparrow_key_crrew
+  - martian
 ---
 # General Information
 **Description:** 
