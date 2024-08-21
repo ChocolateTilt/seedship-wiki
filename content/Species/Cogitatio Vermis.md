@@ -14,9 +14,9 @@ C. vermis is a wormlike parasitic creature that attaches to the host's brain (or
 # Lifecycle
 Not much is known about the lifecycle of C. vermis. Due to the fact that entities like [[Ephraim]] have titles, it appears that they are able to persist after infecting a creature.
 
-## Ranges of Infection
+# Ranges of Infection
 Different species have different reactions to infection by C. vermis. According to Ephraim, Humans have been the most challenging species to deal with.
-### Humans
+## Humans
 Most have severe health complications with very short lifespans post infection. However the parasite integrates into the human brain appears to causes catastrophic damage in a majority of victims
 
 Some suffer some kind of insanity presenting with
