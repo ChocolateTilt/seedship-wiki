@@ -3,7 +3,7 @@ tags:
   - seedship
 ---
 # Key Crew
-**Commander:**  [[Benjamin Elias]]
+**Commander:**  [[Benjamin (Ben) Elias]]
 
 **Head of Medical:** [[Dr. D]]
 
