@@ -1,3 +1,7 @@
+---
+tags:
+  - alien
+---
 The **Ye-Tai** hail from an unknown corner of the galaxy and are pitted in an eternal war against "the enemy" ([[Cogitatio vermis]]). They are a technologically advanced species that are able to traverse [[Metadimensional Space]] to travel across the galaxy at an expedited rate from their Motherships.
 
 # Description
