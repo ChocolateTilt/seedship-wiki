@@ -3,8 +3,6 @@ aliases:
   - Thoughtworm
   - Thoughtworms
   - C. vermis
-tags:
-  - alien
 ---
 *Cogitatio vermis (C. vermis)* is an alien wormlike parasitic creature that serves as a vessel to [[The Enemy]]. It infects target species, attaching to the central nervous system / brain and wresting control over to the Enemy.
 
