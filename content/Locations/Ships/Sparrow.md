@@ -5,13 +5,13 @@ tags:
 # Key Crew
 **Commander:**  [[Benjamin (Ben) Elias]]
 
-**Head of Medical:** [[Dr. D]]
+**Chief of Medical:** TBD
 
-**Head of Communications:** [[Hippocrates Reardon]]
+**Chief of Communications:** [[Hippocrates Reardon]]
 
-**Head of Security:** [[Jamie Platt]]
+**Chief of Security:** [[Jamie Platt]]
 
-**Head of Engineering:** [[Gita]]
+**Chief of Engineering:** [[Gita]]
 
 # Human Cargo of Note
 [[Sandile Vincent]]

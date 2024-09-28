@@ -9,6 +9,6 @@ tags:
 **Other names:** 
 
 ---
-**Amyria Reardon** is a renown scientist, biologic specialist, and Head of Science on the [[Dvinalya]].
+**Amyria Reardon** is a renown scientist, biologic specialist, and Chief of Science on the [[Dvinalya]].
 
 # Notable Interactions
