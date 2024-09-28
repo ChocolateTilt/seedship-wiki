@@ -11,6 +11,8 @@ tags:
 ---
 Originally named VNS Surpico, the *Bhagavad Gita* was an extremely advanced warship piloted solely by Artificial Intelligence created by [[Venus]] in 2485. During its maiden voyage it destroyed its Venusian military escort and burned quickly out of the solar system heading toward Betelgeuse, renaming and reconfiguring itself as it went.
 
+It was killed by [[Peter]] after one of the Bhagavad Gita's cores attempted to attack the [[Sparrow]].
+
 # Notable Interactions
 ## Awake Cycle, Year 2579
 The [[Sparrow]] officially reaches out to send data about [[Metadimensional Space]],
