@@ -32,3 +32,7 @@ Step 6: Create a Pull Request (PR)
 3. On the GitHub web page, you’ll see a button that says "Compare & Pull Request."
 4. Add a title and description for the PR.
 5. Click "Create Pull Request."
+
+---
+Alternative:
+Send over a Markdown file via Discord and we will get it uploaded.
