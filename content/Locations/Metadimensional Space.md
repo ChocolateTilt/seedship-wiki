@@ -1,3 +1,7 @@
+---
+aliases:
+  - The Sticks
+---
 # General Information
 **Population:** Unknown
 
