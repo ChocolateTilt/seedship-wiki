@@ -6,6 +6,7 @@ Step 1: Install & Setup GitHub Desktop
 1. Download and install [GitHub Desktop](https://desktop.github.com/download/).
 2. Sign in to your GitHub account.
 3. Clone or open an existing repository by selecting "File > Clone repository" or "File > Open repository."
+  - For first time users, you will want to clone the Repository using this link: https://github.com/ChocolateTilt/seedship-wiki.git
 
 Step 2: Create a New Branch
 1. Open the repository in GitHub Desktop.
