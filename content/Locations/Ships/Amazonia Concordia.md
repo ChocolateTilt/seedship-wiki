@@ -1,3 +1,14 @@
+# Key crew
+The Key crew of the Amazonia were CEOs of companies that helped fund the project:
+- [[Chiwetei Babangida]]
+- [[Charis Kobayashi]]
+- [[Vasily Peshkov]]
+- Ryoichi Hamaguchi
+- Huy Phạm
+- Brahim Keder
+- Faris El-Hashem
+
+# About
 The Amazonia Concordia, constructed in 2243 by the C.V. Krup Capital Group of [[Venus]], was the first and largest attempt at an interstellar-class human-occupied vessel by major inner system interests. Previous ventures, including the asteroid-ark Jerusalem, were projects of small religious sects, political breakaway groups, and many outer-system fringe polities. Amazonia Concordia would be the first time a major inner system shipyard would take on such a project. 
 
 C.V. Krup Capital Group was a kind of corporate coalition; made of multiple corporations all sharing common goals and with mutually profitable industries. It was formed explicitly for the creation of Amazonia Concordia, allowing each corporation to dilute their fiscal risk in pursuit of a project that would cost 3 trillion Venusian kir and could fail before even truly leaving the system.
@@ -10,8 +21,7 @@ Repeating this in rapid succession, firing warhead after warhead, the ship can q
 
 The entire drive can also contaminate an entire planetary atmosphere with radioactive material, if desired.
 
-—
-
+# Mission
 The corporates chose the Epsilon systems as their target, with an ambitious plan to claim both and bootstrap their nascent civilization into an interstellar power. C.V. Krup was open about the mission, engaging in large public awareness campaigns to attract more investors and the extremely specialized engineers and others needed to pull it all off. Their publicly-disclosed plans for settlement were very complex and featured considerable detail, but can be simplified to the following:
 
 1. Journey out to destination systems will be quiet, with no crew awake due to the dangers of cryo-sleep of the era precluding frequent wake/sleep cycles. 
@@ -28,41 +38,19 @@ The corporates chose the Epsilon systems as their target, with an ambitious plan
 
 # Relevant Information on Corporate Backers, Known Executives Onboard, and More
 **CORPORATE BACKERS AND CEOS**
-
 A number of corporate interests, large and small, hitched a ride on Amazonia Concordia in hopes of a more profitable future. This list contains the eight primary corporate backers who provided most of the funding and support.
 
-1. Azam Microtech
-	- Computing company with a focus on in-house designed CPUs and other base-level components. Longtime provider of computer systems to Venusian government and naval interests.
-	- CEO: Chiwetei Babangida 
-2. Kobayashi Extractions   
-	- Heavy industry of all types. The mining, lifting, and processing of enormous amounts of matter into things everyone else will buy. Responsible for providing almost all the mining and construction equipment to the expedition. 
-	- CEO: Charis Kobayashi
-3. Blueshift
-	- Private Military Company with a longstanding history of brutal strike-breaking and reprisals against labor movements within Venusian territory. 
-	- Sidenote: The solar system remnant of this company was eventually annihilated after mistakenly picking the wrong side of a coup attempt against the Pryme. Their home asteroid base has been a small dust cloud for a century now. 
-    - CEO: Vasily Peshkov
-4. INFERON Agri-Aqua-Culture 
-	- Massive-scale agriculture and aquaculture firm. Pioneered the “Sanlis Loop”, a type of orbital megastructure employed in growing food in the vacuum of space. 
-	- CEO: Ryoichi Hamaguchi
-5. Venus Solar Power Company 
-	- Energy provider with a focus on the construction and operation of solar collector stations. 
-	- CEO: Huy Phạm
-6. Wu-Hofmann Biotech 
-	- Biotechnology research firm credited with helping to create the Venusian Human, the genetic tweak subspecies making up the elite of the elite of Venusian society. 
-	- Additionally was known for experimentation into creating human or other animal subspecies for colonization of hostile environments. 
-	- Only joined C.V. Krup Capital Group following the mysterious catastrophe at their Enceladus Deep-Ocean Research Base and subsequent pressure from the Venusian government. 
-	- CEO: Brahim Keder
-7. Uchida Financial Services 
-	- General purpose financial and investing firm. This branch of the company was split off specifically to handle the nascent financial interests of Epsilon Eridani humanity. 
-	- CEO: Faris El-Hashem
-8. Medicocene Lambda 
-	- Corporate purpose and origin unknown. This entity was created several decades before the project began and its purpose was never publicly disclosed. Such shadow corporations are not uncommon in Venusian space, but its placement here is anomalous. 
-	- CEO: Unknown
+- [[Azam Microtech]]
+- [[Blueshift]]
+- [[INFERON Agri-Aqua-Culture]]
+- [[Kobayashi Extractions]]
+- [[Medicocene Lambda]]
+- [[Uchida Financial Services]]
+- [[Venus Solar Power Company]]
+- [[Wu-Hofmann Biotech]]
 
-**OBJECTS AND THINGS OF INTEREST**
-
+# OBJECTS AND THINGS OF INTEREST
 The vessel holds many quality scientific survey systems, terraforming equipment, supples, and more. This list is of only a few items of relevance; conceivably there may be more onboard. 
-
 - Agricultural supplies (soil, nutrients, bacterial cultures, fungal cultures and spores, seeds, etc)    
 - Terraforming equipment/supplies/infrastructure
 - 1x prototype Neumann device (self-replicating nanotech swarm)
