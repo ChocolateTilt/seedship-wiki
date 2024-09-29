@@ -4,7 +4,6 @@ tags:
 ---
 # Key Crew
 **Commander:** Zerha Ayla-Konishi
-
 **Chief of Science:** [[Amyria Reardon]]
 
 # The Oracle Room
