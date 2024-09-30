@@ -2,6 +2,7 @@
 tags:
   - deceased
   - player
+  - sparrow_key_crrew
 ---
 # General Information
 **Description:** 
@@ -14,4 +15,5 @@ tags:
 Peter worked with [[Benjamin (Ben) Elias|Commander Elias]] for decades after being placed on his ships as a plant for Martian Intelligence.
 
 He was reformed into [[AI/Mars|Mars]] (AI) after repelling an attack from one of the cores of the [[Bhagavad Gita]].
+
 # Notable Interactions
