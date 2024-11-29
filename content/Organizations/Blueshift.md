@@ -1,3 +1,7 @@
+---
+tags:
+  - amazonia_concordia_investor
+---
 # About
 Private Military Company with a longstanding history of brutal strike-breaking and reprisals against labor movements within Venusian territory. 
 
