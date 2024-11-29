@@ -1,6 +1,7 @@
 ---
 tags:
   - seedship
+  - destroyed
 ---
 # Key Crew
 **Commander:** Zerha Ayla-Konishi
