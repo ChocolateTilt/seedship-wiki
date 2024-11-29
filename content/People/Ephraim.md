@@ -2,7 +2,6 @@
 tags:
   - infected_psychic
 ---
-
 # General Information
 **Description:** 
 
