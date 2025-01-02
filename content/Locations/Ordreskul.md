@@ -7,7 +7,7 @@ aliases:
 # General Information
 **Population:** Unknown
 
-**Other Names:** Qara Göl ([[Venusian Engineered Humans|Venusian Engineered Humans]])
+**Other Names:** Qara Göl ([[Serf|Venusian Engineered Humans]])
 
 ---
 *Ordreskul* is an ocean planet littered with archipelagos and super-volcano networks. It has been identified as a time anomaly by [[Milton]] and appears to come from a future where an alliance between the [[Ye-Tai]] and [[Humans|Humanity]] is a historic event.
