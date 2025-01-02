@@ -1,9 +1,14 @@
 # Crew Roster
 **Command** - [[Avir]] 
+
 **Executive Officer** - Keshet
+
 **Biologist** - Gefen
+
 **Geologist** - Noga
+
 **Systems Specialist** - Hadar
+
 **Cultural Expert** - Guillaume Pherigo
 
 # Recording One: Atmospheric Entry
