@@ -1,5 +1,5 @@
 # Crew Roster
-**Command** - Avir 
+**Command** - [[Avir]] 
 **Executive Officer** - Keshet
 **Biologist** - Gefen
 **Geologist** - Noga
@@ -44,7 +44,7 @@ Pherigo remains standing there, finally making eye contact with the Serf. 
 
 Avir remains there and visits the cottage’s central living space, finding a fireplace with a large, soft couch set a few feet away. This world’s air is mostly hydrogen, with just under 5% of it being oxygen. Enough for a Serf to breathe with, for a short while. She cracks the helmet seal and lifts it off, holding it in her lap and staring at the empty fire. 
 
-“I fear you will kill me, [[Qara Göl]]. Why do I burn, in my dreams here?” Avir asks the question of the empty fireplace. A spark ignites in the old fireplace, Avir gasps, and the recording ends.
+“I fear you will kill me, [[Ordreskul|Qara Göl]]. Why do I burn, in my dreams here?” Avir asks the question of the empty fireplace. A spark ignites in the old fireplace, Avir gasps, and the recording ends.
 
 # Recordings Three to Six
 These are scattered and corrupted videos, likely recorded over the course of multiple days or even weeks. Identifying when events happened grows difficult, however, as the timestamps embedded within the data become increasingly aberrant and out of logical order. 

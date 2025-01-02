@@ -6,6 +6,7 @@ aliases:
 
 **Other names:** Homo Sapiens
 
+---
 # Description
 
 # Lifecycle

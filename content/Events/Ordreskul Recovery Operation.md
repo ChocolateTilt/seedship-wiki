@@ -1,0 +1,13 @@
+INSERT HIGH LEVEL DESCRIPTION
+
+# Timeframe
+
+
+# Background
+
+
+# Aftermath
+INSERT ACTIONS AFTER INCIDENT
+
+## Losses
+IF APPLICABLE

@@ -11,5 +11,6 @@ aliases:
 **Other names:** Soldier (Ye-Tai designation)
 
 ---
+*Michael* is a [[Ye-Tai]] 
 
 # Notable Interactions

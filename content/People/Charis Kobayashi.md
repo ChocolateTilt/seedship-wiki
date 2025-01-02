@@ -2,7 +2,6 @@
 aliases:
   - Charis
   - Kobayashi
-  - Afra
 tags:
   - venusian
   - amazonia_concordia_ceo
@@ -11,9 +10,9 @@ tags:
 # General Information
 **Description:** 
 
-**Other names:** [[Afra]]
+**Other names:** [[Aphrah]]
 
 ---
-*Charis Kobayashi* was a CEO aboard the [[Amazonia Concordia]] before her death to Afra.
+*Charis Kobayashi* was a CEO aboard the [[Amazonia Concordia]] before her death to Aphrah.
 
 # Notable Interactions

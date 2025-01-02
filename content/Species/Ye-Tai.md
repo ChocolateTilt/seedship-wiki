@@ -8,7 +8,7 @@ The **Ye-Tai** hail from an unknown corner of the galaxy and are pitted in an et
 The Ye-Tai are birdlike creatures with 6 forward facing, oddly human, eyes, and a beak.
 
 # Worship
-The Ye-Tai were created by the Aeyliaque, who were allegedly destroyed by the Thoughtworms before they could complete their creation.
+The Ye-Tai were created by the [[Aeyliaque]], who were allegedly destroyed by the Thoughtworms before they could complete their creation.
 
 # Society
 The Ye-Tai are a caste based society

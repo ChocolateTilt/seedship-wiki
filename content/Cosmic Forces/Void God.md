@@ -1,11 +1,10 @@
 ---
 tags:
   - deceased
+aliases: []
 ---
 # General Information
 **Description:** A massive entity with a long narrow face, its eyes are two white glowing holes.
-
-**Other names:** ??
 
 ---
 The **Void God** was an extremely old creature of unimaginable strength from [[Metadimensional Space|The Sticks]]. It imprinted on Humanity after [[Benjamin (Ben) Elias|Elias]]'s first dream-walk into Metadimensional Space. The entity lent its strength to Humanity for a price; A type of parasite in its own right, the Void God fed off of Humanity's ideals growing in power as more fell to its worship.
