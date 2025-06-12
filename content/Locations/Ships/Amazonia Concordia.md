@@ -1,8 +1,8 @@
 # Key crew
 The Key crew of the Amazonia were CEOs of companies that helped fund the project:
-- [[Chiwetei Babangida]]
+- Chiwetei Babangida
 - [[Charis Kobayashi]]
-- [[Vasily Peshkov]]
+- Vasily Peshkov
 - Ryoichi Hamaguchi
 - Huy Phạm
 - Brahim Keder
@@ -40,18 +40,18 @@ The corporates chose the Epsilon systems as their target, with an ambitious plan
 **CORPORATE BACKERS AND CEOS**
 A number of corporate interests, large and small, hitched a ride on Amazonia Concordia in hopes of a more profitable future. This list contains the eight primary corporate backers who provided most of the funding and support.
 
-- [[Azam Microtech]]
-- [[Blueshift]]
-- [[INFERON Agri-Aqua-Culture]]
-- [[Kobayashi Extractions]]
-- [[Medicocene Lambda]]
-- [[Uchida Financial Services]]
-- [[Venus Solar Power Company]]
-- [[Wu-Hofmann Biotech]]
+- Azam Microtech
+- Blueshift
+- INFERON Agri-Aqua-Culture
+- Kobayashi Extractions
+- Medicocene Lambda
+- Uchida Financial Services
+- Venus Solar Power Company
+- Wu-Hofmann Biotech
 
 # OBJECTS AND THINGS OF INTEREST
-The vessel holds many quality scientific survey systems, terraforming equipment, supples, and more. This list is of only a few items of relevance; conceivably there may be more onboard. 
-- Agricultural supplies (soil, nutrients, bacterial cultures, fungal cultures and spores, seeds, etc)    
+The vessel holds many quality scientific survey systems, terraforming equipment, supplies, and more. This list is of only a few items of relevance; conceivably there may be more onboard. 
+- Agricultural supplies (soil, nutrients, bacterial cultures, fungal cultures and spores, seeds, etc.)    
 - Terraforming equipment/supplies/infrastructure
 - 1x prototype Neumann device (self-replicating nanotech swarm)
 - 1 “Secondary Colonization Fleet”, an unknown collection of automated vessels for colonization of Epsilon Indi

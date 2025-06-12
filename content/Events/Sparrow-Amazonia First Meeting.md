@@ -1,4 +1,4 @@
-A meeting turned coup between the [[Sparrow]] and the [[Amazonia Concordia]]. Command staff of the Sparrow met with the team of CEOs leading the Amazonia - [[Charis Kobayashi]], [[Vasily Peshkov]], and [[Chiwetei Babangida]]. 
+A meeting turned coup between the [[Sparrow]] and the [[Amazonia Concordia]]. Command staff of the Sparrow met with the team of CEOs leading the Amazonia - [[Charis Kobayashi]], Vasily Peshkov, and Chiwetei Babangida. 
 
 # Timeframe
 Awake cycle, 2749
