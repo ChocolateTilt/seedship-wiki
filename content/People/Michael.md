@@ -12,5 +12,3 @@ aliases:
 
 ---
 *Michael* is a [[Ye-Tai]] 
-
-# Notable Interactions

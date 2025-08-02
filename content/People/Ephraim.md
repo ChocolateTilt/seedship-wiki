@@ -9,5 +9,3 @@ tags:
 
 ---
 **Dr. Ephraim** lead the team at [[Bah-Jurang Listening Post]] for years before the Defilement
-
-# Notable Interactions

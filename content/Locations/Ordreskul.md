@@ -10,7 +10,7 @@ aliases:
 **Other Names:** Qara Göl ([[Serf|Venusian Engineered Humans]])
 
 ---
-*Ordreskul* is an ocean planet littered with archipelagos and super-volcano networks. It has been identified as a time anomaly by [[Milton]] and appears to come from a future where an alliance between the [[Ye-Tai]] and [[Humans|Humanity]] is a historic event.
+*Ordreskul* is an ocean planet littered with archipelagos and super-volcano networks. It has been identified as a time anomaly by [[Milton]] and appears to come from a future where an alliance between the [[Ye-Tai]] and [[Humanity|Humanity]] is a historic event.
 
 The planet is protected by a psychically enhanced nanobot network called an "Angelnet" (originally of Ye-Tai design) that can control the planet's weather, monitor the planet, and act as an early warning system / deterrent.
 

@@ -14,5 +14,3 @@ tags:
 
 ---
 *Charis Kobayashi* was a CEO aboard the [[Amazonia Concordia]] before her death to Aphrah.
-
-# Notable Interactions

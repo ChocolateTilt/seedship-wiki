@@ -2,6 +2,8 @@
 tags:
   - game_rules
   - fleet_government
+aliases:
+  - FleetGov
 ---
 # The Fleet Council
 The Fleet Government Council is composed of a representative from each ship in the fleet. 

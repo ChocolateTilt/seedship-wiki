@@ -8,12 +8,25 @@ tags:
   - sparrow_key_crrew
   - martian
 ---
-# General Information
-**Description:** 
+# Basic Information
+**Also Known As:**
+- Ben
+- Benji
 
-**Other names:** Ben, Benji
+**Affiliation(s):**
+- Martian Military (former)
+- [[The United Fleet Government (FleetGov)|FleetGov]]
 
----
-*Benjamin (Ben) Elias* has spent his entire life in service to Mars. He was raised in the capital, his father was a Martian Marine while his mother was a technologist. From a young age, Ben was taught that a good citizen contributes as much as he can to further the Martian cause.
+**Origin:** [[Locations/Sol/Mars|Mars]]
 
-# Notable Interactions
+**Species:** [[Humanity|Human]]
+
+**Current Status:** Active
+
+# Overview
+*Benjamin "Ben" Elias* is a career officer in the Martian Navy. He currently serves as the Commander of the Seedship [[Sparrow]] and defacto military leader of the nomadic [[The United Fleet Government (FleetGov)|FleetGov]]. He fought in the war against Venus, survived the fall of Sol, and now carries the burden of 30,000 frozen souls looking to him for salvation.
+
+# Known Associations
+[[Jamie Platt]] - 
+brief description of their connection or known relationship.
+**Group/Faction** – how they're involved.

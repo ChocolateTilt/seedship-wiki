@@ -6,7 +6,7 @@ aliases:
 ---
 *Cogitatio vermis (C. vermis)* is an alien wormlike parasitic creature that serves as a vessel to [[The Enemy]]. It infects target species, attaching to the central nervous system / brain and wresting control over to the Enemy.
 
-**Other names:** Thoughtworms ([[Humans]])
+**Other names:** Thoughtworms ([[Humanity]])
 
 # Description
 Cogitatio vermis loosely resembles the worms of Earth, though it has little in common with the other helminths, such as tapeworms, roundworms, and flukes. C. vermis is very small, on the borderline of visibility and microscopic. They range in size, but are similar to most nematode varieties on earth at only one millimeter long. 
